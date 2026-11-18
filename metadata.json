@@ -1,0 +1,6 @@
+{
+  "name": "Remix LitioPK — Calculadora Farmacocinética y Simulador de Reintroducción de Litio",
+  "description": "Herramienta clínica de farmacocinética hospitalaria para estimar el aclaramiento renal de litio, simular concentraciones plasmáticas en intoxicación y evaluar escenarios de reintroducción basados en tres modelos científicos validados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
